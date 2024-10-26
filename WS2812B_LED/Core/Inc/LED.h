@@ -8,8 +8,8 @@
 #ifndef SRC_LED_H_
 #define SRC_LED_H_
 
-#define LED_HIGH 72U
-#define LED_LOW 24U
+#define LED_HIGH 12U
+#define LED_LOW 6U
 #define LED_DIFF (LED_HIGH - LED_LOW)
 
 struct LED_DataBuffer
